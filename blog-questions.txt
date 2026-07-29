@@ -11,4 +11,4 @@
 11. Can multiple admins manage documents
 12. What file types can I upload to the knowledge base
 13. What compliance certifications does BrainOS have
-14. Who is BrainOS built for
+14. who are the target audience for brainos
