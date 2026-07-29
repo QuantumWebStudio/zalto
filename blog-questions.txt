@@ -1,0 +1,14 @@
+1. what is Brain OS
+2. what are the products available?
+3. how can i delete my data
+4. how can i stop my subscription
+5. how can i onboard a new employee in the company using brainos
+6. What's included in the Free plan
+7. What is the Onboarding Health Score?
+8. Does BrainOS integrate with Slack or Microsoft Teams
+9. How is company data secured
+10. Does BrainOS integrate with HRIS systems
+11. Can multiple admins manage documents
+12. What file types can I upload to the knowledge base
+13. What compliance certifications does BrainOS have
+14. Who is BrainOS built for
